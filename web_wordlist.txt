@@ -1,0 +1,10 @@
+admin
+login
+dashboard
+uploads
+backups
+wp-admin
+.git
+.env
+config
+robots.txt
