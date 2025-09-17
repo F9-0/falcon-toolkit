@@ -5,7 +5,7 @@ from rich.text import Text
 console = Console()
 
 def print_banner():
-    """Prints the new green FALCON banner."""
+    """Prints the final FALCON ASCII art banner."""
     
     BANNER = r"""
 ███████╗ █████╗ ██╗      ██████╗  ██████╗ ███╗   ██╗
@@ -24,7 +24,7 @@ def print_banner():
     panel = Panel(
         text,
         title="[bold yellow]Falcon Recon Toolkit[/bold yellow]",
-        subtitle="[yellow]v3.5 - World Class[/yellow]",
+        subtitle="[yellow]v1.0.0[/yellow]",
         style="bold green"
     )
     console.print(panel)
