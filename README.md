@@ -10,10 +10,7 @@ A multi-tool interactive command-line interface for network reconnaissance, buil
 ---
 
 ##  Demo
-
-<img width="1920" height="1080" alt="falcon-toolkit" src="https://github.com/user-attachments/assets/22dde935-0c8d-49f5-9f51-10a116a4e397" />
-
-
+<img width="1920" height="1080" alt="falcon-toolkit" src="https://github.com/user-attachments/assets/dbf44131-10a3-440a-a3b9-ad50e62cc52b" />
 
 ---
 
